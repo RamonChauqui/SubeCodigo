@@ -1,0 +1,51 @@
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb

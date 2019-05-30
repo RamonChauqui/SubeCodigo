@@ -1,0 +1,192 @@
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioABM.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.Cache
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.Cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.Cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb

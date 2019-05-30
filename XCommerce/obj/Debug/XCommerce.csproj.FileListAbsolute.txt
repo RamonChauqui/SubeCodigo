@@ -1,0 +1,461 @@
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\XCommerce.exe.config
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\XCommerce.exe
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\XCommerce.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\obj\Debug\XCommerce.exe
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\obj\Debug\XCommerce.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\EntityFramework.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\EntityFramework.xml
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.exe.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.exe
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\EntityFramework.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\EntityFramework.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.exe
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Core.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Core.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.Principal.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.Principal.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.exe
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.exe.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.exe
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\EntityFramework.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Core.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Core.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\EntityFramework.xml
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce\obj\Debug\XCommerce.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce\obj\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.Cache
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.Cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.Cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPrototype\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.pdb

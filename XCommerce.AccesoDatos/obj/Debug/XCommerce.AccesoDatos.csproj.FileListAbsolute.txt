@@ -1,0 +1,141 @@
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb

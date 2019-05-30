@@ -1,0 +1,278 @@
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\InDiO\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Mary&Jose\source\repos\Original\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuario._00009_Usuario.resources
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Mary&Jose\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuario._00009_Usuario.resources
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\InDiO\source\repos\MIO\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuario._00009_Usuario.resources
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.Cache
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\IntegradorDefinitivoPARAROMPER\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuario._00009_Usuario.resources
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.Cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\30_10_2018_TP2_GRUOPO_7\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojResolveAssemblyReference.cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuario._00009_Usuario.resources
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.Cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuario._00009_Usuario.resources
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\VIDEOS TOTAL LAB\---PROYECTOS----\ParaPResentar\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuario._00009_Usuario.resources
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\TOTAL LAB2\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuario._00009_Usuario.resources
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
