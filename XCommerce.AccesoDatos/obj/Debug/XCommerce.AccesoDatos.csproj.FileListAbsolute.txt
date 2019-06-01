@@ -139,3 +139,15 @@ C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10
 C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
 C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
 C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb

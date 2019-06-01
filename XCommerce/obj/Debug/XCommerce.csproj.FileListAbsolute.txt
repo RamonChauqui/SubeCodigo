@@ -459,3 +459,37 @@ C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10
 C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
 C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.exe
 C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce\obj\Debug\XCommerce.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.exe.config
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.exe
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\Presentacion.Core.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\obj\Debug\XCommerce.csprojAssemblyReference.cache
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\obj\Debug\XCommerce.Principal.resources
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\obj\Debug\XCommerce.Properties.Resources.resources
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\obj\Debug\XCommerce.csproj.GenerateResource.cache
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\obj\Debug\XCommerce.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\obj\Debug\XCommerce.csproj.CopyComplete
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\obj\Debug\XCommerce.exe
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce\obj\Debug\XCommerce.pdb

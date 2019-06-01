@@ -1,4 +1,4 @@
 # SubeCodigo
 FinalLab2
 
-Me llamo ramon
+TRABAJO EN PROCESO, SISTEMA COMERCIAL. LABORATORIO 2,  UTN-FRT. 

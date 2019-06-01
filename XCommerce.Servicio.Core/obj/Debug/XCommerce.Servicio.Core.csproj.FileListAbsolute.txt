@@ -211,3 +211,24 @@ C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10
 C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.Servicio.Core\obj\Debug\XCommerce.Servicio.Core.csproj.CopyComplete
 C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.Servicio.Core\obj\Debug\XCommerce.Servicio.Core.dll
 C:\Users\kimo\Desktop\TOTAL LAB\---PROYECTOS----\PARAPROTOTIPADO\2018FLRSV\30_10_2018_TP2_GRUOPO_7\XCommerce.Servicio.Core\obj\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\EntityFramework.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\Presentacion.Helpers.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\Presentacion.Constantes.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\EntityFramework.xml
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\obj\Debug\XCommerce.Servicio.Core.csprojAssemblyReference.cache
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\obj\Debug\XCommerce.Servicio.Core.csproj.CoreCompileInputs.cache
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\obj\Debug\XCommerce.Servicio.Core.csproj.CopyComplete
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\obj\Debug\XCommerce.Servicio.Core.dll
+C:\Users\kimo\Documents\GitHub\SubeCodigo\XCommerce.Servicio.Core\obj\Debug\XCommerce.Servicio.Core.pdb
