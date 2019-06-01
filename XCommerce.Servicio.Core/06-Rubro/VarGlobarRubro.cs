@@ -25,12 +25,12 @@ namespace XCommerce.Servicio.Core._06_Rubro
 
                 }
 
-                if (!contex.Rubros.Any())
-                {
-                    contex.Rubros.Add(new AccesoDatos.Rubro { Descripcion = "Menu Diario", EstaEliminado = false });
+                //if (!contex.Rubros.Any())
+                //{
+                //    contex.Rubros.Add(new AccesoDatos.Rubro { Descripcion = "Menu Diario", EstaEliminado = false });
 
-                }
-                contex.SaveChanges();
+                //}
+                //contex.SaveChanges();
             }
 
 
